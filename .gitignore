@@ -1,0 +1,33 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ОС
+Thumbs.db
+.DS_Store
+
+# Локальные артефакты
+config.json
+results.txt
+final.txt
+test*.txt
+tests.txt
+start.bat
+*.log
